@@ -1,4 +1,4 @@
-# 📊 AtliQ Hardware – Consumer Goods Analysis (APAC | FY2020–2021)
+# 📊 AtliQ Hardware – Consumer Goods Analysis ( FY2020–2021)
 
 ## 🎯 Objective
 - Provide actionable business insights through ad hoc SQL analysis.
